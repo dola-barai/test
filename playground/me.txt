@@ -1,0 +1,5 @@
+{{#user}}
+Name: Dola Barai
+Skills: HTML, CSS, JS, Next.js
+Email: dolabarai43@gmail.com
+{{/user}}
